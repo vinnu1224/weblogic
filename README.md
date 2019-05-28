@@ -1,3 +1,3 @@
 # weblogic
 
-bbbbbbbbbbbbbbbbb
+bbbbbbbb
